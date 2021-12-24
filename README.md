@@ -1,2 +1,2 @@
 # VkFriends
-#DEMO: 
+#DEMO: https://nurs777.github.io/VkFriends/
